@@ -48,8 +48,6 @@ My long-term mission is to build safe, trustworthy, and clinically meaningful **
 - 🌐 Website: https://sunxinti.github.io  
 - 📫 Email: **sunxinti@tmu.edu.cn**  
 - 🧬 ORCID: https://orcid.org/0000-0002-4264-9567  
-- 🤝 LinkedIn (coming soon)
-
 ---
 
 <div align="center">
