@@ -5,7 +5,6 @@ Ph.D. Candidate · Medical AI · Single-Cell Multiomics · Translational Medicin
 <br>
 <a href="mailto:sunxinti@tmu.edu.cn">📧 Email</a> · 
 <a href="https://sunxinti.github.io">🌐 Homepage</a> ·
-<a href="https://scholar.google.com">🔍 Google Scholar</a> 
 </p>
 
 ---
