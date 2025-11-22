@@ -32,21 +32,6 @@ My long-term mission is to build safe, trustworthy, and clinically meaningful **
 
 ---
 
-### 📌 Selected Publications
-
-📘 **Clinical deployment of large language models in medicine: opportunities and challenges**  
-*Clinical and Translational Medicine, 2025*  
-🔗 https://onlinelibrary.wiley.com/doi/10.1002/ctm2.70157
-
-🧬 **Mapping metabolic landscape of lung adenocarcinoma using GA-optimized framework**  
-*Journal of Translational Medicine, 2024*  
-🔗 https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05138-2  
-
-🧪 **appLUAD: An online prognostic platform for lung cancer**  
-🔗 https://xintisunlab.shinyapps.io/appLUAD/
-
----
-
 ### ⚙️ Tools & Skills
 
 | Field | Skills |
