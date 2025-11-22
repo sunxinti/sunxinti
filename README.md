@@ -43,18 +43,6 @@ My long-term mission is to build safe, trustworthy, and clinically meaningful **
 
 ---
 
-### 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunxinti&show_icons=true&theme=calm)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunxinti&layout=compact&theme=calm)
-
-</div>
-
----
-
 ### 🔗 Find Me Online
 
 - 🌐 Website: https://sunxinti.github.io  
